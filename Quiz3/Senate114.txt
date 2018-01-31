@@ -1,0 +1,100 @@
+Jeff Sessions,Alabama,R
+Richard Shelby,Alabama,R
+Dan Sullivan,Alaska,R
+Lisa Murkowski,Alaska,R
+John McCain,Arizona,R
+Jeff Flake,Arizona,R
+Tom Cotton,Arkansas,R
+John Boozman,Arkansas,R
+Barbara Boxer,California,D
+Dianne Feinstein,California,D
+Cory Gardner,Colorado,R
+Michael Bennet,Colorado,D
+Richard Blumenthal,Connecticut,D
+Chris Murphy,Connecticut,D
+Chris Coons,Delaware,D
+Thomas Carper,Delaware,D
+Marco Rubio,Florida,R
+Bill Nelson,Florida,D
+David Perdue,Georgia,R
+Johnny Isakson,Georgia,R
+Mazie Hirona,Hawaii,D
+Brian Schatz,Hawaii,D
+Jim Risch,Idaho,R
+Mike Crapo,Idaho,R
+Richard Durbin,Illinois,D
+Mark Kirk,Illinois,R
+Joe Donnelly,Indiana,D
+Dan Coats,Indiana,R
+Joni Ernst,Iowa,R
+Chuck Grassley,Iowa,R
+Pat Roberts,Kansas,R
+Jerry Moran,Kansas,R
+Rand Paul,Kentucky,R
+Mitch McConnell,Kentucky,R
+David Vitter,Louisiana,R
+Bill Cassidy,Louisiana,R
+Angus King,Maine,I
+Susan Collins,Maine,R
+Benjamin Cardin,Maryland,D
+Barbara Mikulski,Maryland,D
+Edward Markey,Massachusetts,D
+Elizabeth Warren,Massachusetts,D
+Debbie Stebenow,Michigan,D
+Gary Peters,Michigan,D
+Al Franken,Minnesota,D
+Amy Klobuchar,Minnesota,D
+Roger Wicker,Mississippi,R
+Thad Cochran,Mississippi,R
+Roy Blunt,Missouri,R
+Claire McCaskill,Missouri,D
+John Walsh,Montana,D
+Steve Daines,Montana,R
+Deb Fischer,Nebraska,R
+Ben Sasse,Nebraska,R
+Dean Heller,Nevada,R
+Harry Reid,Nevada,D
+Jeanne Shaheen,New Hampshire,D
+Kelly Ayotte,New Hampshire,R
+Robert Menendez,New Jersey,D
+Cory Booker,New Jersey,D
+Martin Heinrich,New Mexico,D
+Tom Udall,New Mexico,D
+Charles Schumer,New York,D
+Kirsten Gillibrand,New York,D
+Richard Burr,North Carolina,R
+Thom Tillis,North Carolina,R
+John Hoeven,North Dakota,R
+Heidi Heitkamp,North Dakota,D
+Rob Portman,Ohio,R
+Sherrod Brown,Ohio,D
+James Inhofe,Oklahoma,R
+James Lankford,Oklahoma,R
+Ron Wyden,Oregon,D
+Jeff Merkley,Oregon,D
+Pat Toomey,Pennsylvania,R
+Robert Casey,Pennsylvania,D
+Sheldon Whitehouse,Rhode Island,D
+Jack Reed,Rhode Island,D
+Tim Scott,South Carolina,R
+Lindsey Graham,South Carolina,R
+Mike Rounds,South Dakota,R
+John Thune,South Dakota,R
+Bob Corker,Tennessee,R
+Lamar Alexander,Tennessee,R
+Ted Cruz,Texas,R
+John Cornyn,Texas,R
+Orrin Hatch,Utah,R
+Mike Lee,Utah,R
+Bernard Sanders,Vermont,I
+Patrick Leahy,Vermont,D
+Tim Kaine,Virginia,D
+Mark Warner,Virginia,D
+Maria Cantwell,Washington,D
+Patty Murray,Washington,D
+Joe Manchin,West Virginia,D
+Shelly Capito,West Virginia,R
+Tammy Baldwin,Wisconsin,D
+Ron Johnson,Wisconsin,R
+Michael Enzi,Wyoming,R
+John Barrasso,Wyoming,R

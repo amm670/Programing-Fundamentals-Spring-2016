@@ -1,0 +1,91 @@
+Alexandra Montgomery
+Programming Fundamentals
+1/29/2016
+Section 2.1 pg 31 odd numbers (1-77)
+
+1) 12
+3) 1/8 or 0.125
+5) 8
+7) 2
+9) 1
+11) 5//5 = 1
+13) not valid
+15) not valid
+17) not valid
+19) 10
+21) 16
+23) 9
+25) 
+num1 = 7
+num1 *=8
+num1 += 5
+print(num1)
+61
+27)
+homework = 20
+answer = homework % 5.5
+print(answer)
+29)
+num1 = 3
+num2 = 162
+num3 = num1 + num2
+num4 = 7
+num5 = num3 * num4
+print(num5)
+1155
+31)
+x     y
+2     0
+2     6
+11    6
+15    6
+15    7
+33) 24
+35) 10
+37) 2 15
+39) a + b = c should be written as c = a + b
+41) 0.05 = interest should be written as interest = 0.05
+43) 10
+45) 7
+47) 3.128
+49) -2
+51) 0
+53) 6
+55) cost += 5
+57) cost /= 6
+59) sum %= 2
+61)
+revenue = 98456
+cost = 45000
+profit = revenue - cost
+print(profit)
+53456
+63) 
+price = 19.95
+discountPercent = 30
+markdown = (discountPercent / 100) * price
+price -= markdown
+print(round(price, 2))
+65)
+balance = 100
+balance += 0.05 * balance
+balance += 0.05 * balance
+balance += 0.05 * balance
+print(round(balance, 2))
+67) 
+balance = 100
+balance *= 1.05 ** 10
+print(round(balance, 2))
+69) 
+acre = 30
+produced = 18
+amountOfCorn = acre * produced
+print(amountOfCorn)
+71)
+washington = 2
+newYork = 7
+miles = 233
+time = newYork - washington
+speed = miles / time
+print(speed)
+73) 

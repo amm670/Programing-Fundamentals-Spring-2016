@@ -1,0 +1,63 @@
+Alexandra Montgomery
+Programming Fundamentals Lab
+2/12/2016
+Excersices 2.4 (1-99) odd
+
+1. Pennsylvania Hawaii
+3. Alaska Hawaii
+5. Delaware Delaware
+7. 48
+9. Ohio
+11. DELAWARE
+13. ['Puerto Rico']
+15. United States
+17. ['New Jersey' 'Georgia' 'Conneticuit']
+19. ['Oklahoma' 'New Mexico' 'Arizona']
+21. ['Delaware" 'Pennsylvania' 'New Jersey' 'Georgia']
+23. ['Arizona' 'Alaska' 'Hawaii']
+25. []
+27. ['Georgia']
+29. ['Alaska' 'Hawaii']
+31. ['New Mexico']
+33. 10
+35. 0
+37. 48
+39. ['Hawaii' 'Puerto Rico' 'Guam']
+41. ['Hawaii' 'Puerto Rico' 'Guam']
+43. ['Delaware' 'Common Wealth of Pennsylvania' 'Pennsylvania']
+45. ['New' 'Mexico']
+    ['New' 'Jersey']
+47. Pennsylviania,New Jersey,Georgia
+49. 8
+51. 100
+53. 0
+55. Largest Number: 8
+57. Total: 16
+59. This sentance contains five words.
+    This sentance contains six different words.
+61. Babbage, Charles
+63. Middle Name: van
+65. When in the course of human events
+67. editor-in-chief
+69. e**plurbus**unum
+71. ['New York' 'NY' 'Empire State' 'Albany']
+73. ['France' 'England' 'Spain']
+75. programmer
+77. Follow your own star.
+79. 987-654-3219
+81. [3, 9, 6]
+83. each
+85. ['suprano' 'tenor' 'alto' 'bass']
+87. ['gold' 'silver' 'bronze']
+89. murmur
+91. 
+93.
+95.
+97.
+
+99.
+101. 
+#Write a program that counts the number of words in a sentence
+sentence = input("Enter a sentence: ")
+num = len[sentence]
+print("Number of words: ", num)

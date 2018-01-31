@@ -1,0 +1,73 @@
+1. Python
+3. Ernie
+5. o
+7. h
+9. Pyt
+Alexandra Montgomery
+Programming Fundamentals Lab
+2/5/2016
+Excersices 2.2 (1-99) odd
+
+11. Py
+13. h
+15. th
+17.Python
+19. [2:5]
+21. [-3:-1]
+23. [3:5]
+25. [2:4]
+27. -1
+29. 4
+31. 8 ball
+33. 8 BALL
+35. 3
+37. The Artist
+39. 7
+41. 7
+43. 2
+45. King Kong
+47. 
+12
+MUNICIPALITY
+city
+6
+49. flute
+51. Your age is 21.
+53. A ROSE IS A ROSE IS A ROSE
+55. WALLAWALLA
+57. goodbye
+59. Mmmmmmm.
+61. a     b
+63. 76 trombones
+65. 17
+67. 8
+69.The Great 9
+71. s[:-1]
+73. -1
+75. true
+77. true
+79. there should be quotation marks around the phone number
+81. for shouldn't be used as a variable name
+83. 
+85. Upper souldn't have a capital letter
+87. you cannot add a number to a string
+89. you cannot use find on numbers
+91. there's not 8 characters in "python"
+93.
+firstName = "Thomas"
+middleName = "Alva"
+lastName = "Edison"
+yearOfBirth = 1847
+print(firstName, middleName, lastName,", " + str(yearOfBirth))
+95.
+publisher = "Person"
+print("(c)", publisher)
+97.
+
+99.
+101. 
+teamName = input("Enter name of team: ")
+gamesWon = int(input("Enter number of games won: "))
+gamesLost = int(input("Enter number of games lost: "))
+percentage = round(100 * (gamesWon) / (gamesWon + gamesLost), 1)
+print(teamName, " won", str(percentage) + "%", "of their games.")

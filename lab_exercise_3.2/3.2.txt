@@ -1,0 +1,76 @@
+Alexandra Montgomery
+Programming Fundamentals Lab
+2/19/2016
+Excersices 3.2 (1-25) odd
+
+1. Less than ten
+3. False
+5. Remember tomorrow is another day. 
+7. 10
+9. To be, or not to be.
+11. Hi
+13. A nonempty string is true. 
+15. Syntax and logical errors: The second line should be "n == 7" and for the first print a squared number is n ** 2.
+n = eval(input("Enter a number: "))
+if n == 7
+	print("The square is", n ** 2)
+	print("The negative is", -n)
+17. Syntax: It should read if (major == "Buisness") or (major == "Computer Science")
+major = "Computer Science"
+if (major == "Business") or (major == "Computer Science")
+	print("Yes") 
+19. 
+if (a == 2):
+	a += 3
+else:
+	a = 5
+21. if (j == 7):
+	b = 1
+else:
+	b = 2
+23. answer = input("Is Alaska bigger than Texas and California combined? ")
+if answer[0].upper() = Y
+	print("Correct")
+else:
+	print("Wrong")
+25. 
+amount = float(input("Enter amount of bill: "))
+tip = amount * 0.15
+if tip < 2:
+	tip = 2
+print("Tip is ", tip)
+26.
+bagels = int(input("Enter number of bagels: "))
+cost1 = bagels * .75
+cost2 = bagels * .6
+if bagels < 6:
+    print("$", cost1)
+else:
+    print("$", cost2)
+27.
+widget = int(input("Enter number of widgets: "))
+cost1 = float(widget * .25)
+cost2 = float(widget * .2)
+if widget < 100:
+    print("$", cost1)
+else:
+    print("$", cost2)
+29. 
+ronald = input("Who was the first Ronald McDonald?: ")
+if ronald == "Willard Scott":
+    print("You are correct!")
+else:
+    print("Nice try :(")
+30.
+copies = int(input("Enter number of copies: "))
+cost1 = float(copies * .05)
+cost2 = float(copies * .03)
+if copies <= 100:
+    print("Cost is: $", cost1)
+else:
+    print("Cost is $",cost2)
+    
+
+    
+
+

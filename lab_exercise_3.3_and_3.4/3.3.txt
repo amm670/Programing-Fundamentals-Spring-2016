@@ -1,0 +1,55 @@
+Alexandra Montgomery
+Programming Fundamentals Lab
+2/26/2016
+Excersices 3.3 (1-25) odd
+
+1. 24
+3. 10
+5. 20
+7. 
+a
+b
+c
+d
+9.Infinate
+11.The goal is to display all the elements but the code will stop the list at "c"
+13. 
+for i in range(3):
+    name = input("Enter a name:")
+    print(name)  
+15.
+cel = 10
+print("Celcius", "\t", "Farenheight")
+while cel <= 30:
+    far = int((9 / 5) * cel + 32)  
+    print(cel, "\t", far)
+    cel += 5
+(3.4)
+1. 7,8,9,10
+3. 2,5,8,11
+5. 0,1,2,3,4,5
+7. 11,10,9,8
+9.(4,20,5)
+11. (-21, -17, -1)
+13. (20, 13, -3)
+15. (5, -1, -1)
+17. 
+Pass #1
+Pass #2
+Pass #3
+Pass #4
+19.
+5
+6
+7
+21. 
+¢¢¢¢¢¢¢¢¢¢
+23. 
+2
+4
+6
+8
+Who do we appreciate?
+25. 3
+27. 
+
